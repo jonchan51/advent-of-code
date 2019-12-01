@@ -1,6 +1,6 @@
 import java.util.*;
 
-class DayOnePartTwo {
+class P2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int sum = 0;
