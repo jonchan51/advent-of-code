@@ -1,1 +1,1 @@
-Advent of Code attempts in Java
+Advent of Code attempts
